@@ -7,7 +7,7 @@ var mjAPI = require("./node_modules/mathjax-node/lib/mj-single");
 var async = require('async');
 var results = [];
 var options = {
-  packages: ["amsmath", "amssymb"]
+  packages: ["amsmath", "amssymb", "tikz", "cancel", "empheq"]
 };
 var port = process.env.PORT || 5000;
 

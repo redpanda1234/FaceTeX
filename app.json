@@ -11,11 +11,11 @@
   "env": {
     "FB_USERNAME": {
       "description": "Username or email address of the bot.",
-      "value": "example@email.com"
+      "value": "latexbot1234@gmail.com"
     },
     "FB_PASSWORD": {
       "description": "Password for the bot.",
-      "value": "verycomplicatedpassword"
+      "value": "boopbeep"
     },
     "HEROKU_INSTANCE": {
       "description": "Url for heroku dyno",
